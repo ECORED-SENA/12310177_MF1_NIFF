@@ -34,10 +34,13 @@ html(lang="es")
                         .card.wow.flipInX(data-wow-delay=".4s")
                             .card-body
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('play', 'Introducción', 'main.html#pages/intro.html/')
-                                    +navTemaItem('1', 'La empresa', 'main.html#page/empresa/')
-                                    +navTemaItem('2', 'Contabilidad', 'main.html#page/contabilidad/')
-                                    +navTemaItem('question', 'Actividad didáctica', 'main.html#page/actividad-1/')
+                                    +navTemaItem('play', 'Introducción', '#introduccion')
+                                    +navTemaItem('1', 'La empresa', '#tema-1')
+                                    +navTemaItem('2', 'Contabilidad', '#tema-2')
+                                    +navTemaItem('question', 'Actividad didáctica', '#evaluacion')
+                                    +navTemaItem('glosary', 'Glosario', '#glosario')
+                                    +navTemaItem('folder', 'Material complementario', '#anexos')
+                                    +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
 
 
         section#mainContent         
@@ -47,6 +50,8 @@ html(lang="es")
                 include pages/1-tema.pug
             #tema-2
                 include pages/2-tema.pug
+            #evaluacion
+                include pages/actividad-1.pug
             #glosario
                 include pages/glosario.pug
             #anexos
