@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="176" viewBox="0 0 960 176">
-  <g id="Grupo_10153" data-name="Grupo 10153" transform="translate(-110 -955)">
+  <g id="Grupo_10152" data-name="Grupo 10152" transform="translate(-110 -955)">
     <text id="Productivos:_trabajo_maquinaria._" data-name="Productivos: trabajo, maquinaria. " transform="translate(110 1033)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Productivos: </tspan><tspan x="0" y="39">trabajo, </tspan><tspan x="0" y="61">maquinaria. </tspan></text>
-    <text id="Financieros:_Recursos_financieros_para_invertir._" data-name="Financieros: Recursos financieros para invertir. " transform="translate(280 1033)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Financieros: </tspan><tspan x="0" y="39">Recursos financieros </tspan><tspan x="0" y="61">para invertir. </tspan></text>
-    <text id="Materiales:_Bienes_económicos._" data-name="Materiales: Bienes económicos. " transform="translate(775 1033)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Materiales: </tspan><tspan x="0" y="39">Bienes </tspan><tspan x="0" y="61">económicos. </tspan></text>
+    <text id="Financieros:_recursos_financieros_para_invertir._" data-name="Financieros: recursos financieros para invertir. " transform="translate(280 1033)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Financieros: </tspan><tspan x="0" y="39">recursos financieros </tspan><tspan x="0" y="61">para invertir. </tspan></text>
+    <text id="Materiales:_bienes_económicos._" data-name="Materiales: bienes económicos. " transform="translate(775 1033)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Materiales: </tspan><tspan x="0" y="39">bienes </tspan><tspan x="0" y="61">económicos. </tspan></text>
     <g id="Grupo_4145" data-name="Grupo 4145" transform="translate(9 312)">
       <g id="Elipse_504" data-name="Elipse 504" transform="translate(105 643)" fill="none" stroke="#ca9c2c" stroke-width="5">
         <ellipse cx="33.5" cy="32" rx="33.5" ry="32" stroke="none"/>
@@ -17,7 +17,7 @@
       </g>
       <text id="_2" data-name="2" transform="translate(306.347 690.414)" fill="#868988" font-size="42.237" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">2</tspan></text>
     </g>
-    <text id="Marketing:_Recursos_para_vender._" data-name="Marketing: Recursos para vender. " transform="translate(462 1030)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Marketing: </tspan><tspan x="0" y="39">Recursos para </tspan><tspan x="0" y="61">vender. </tspan></text>
+    <text id="Marketing:_recursos_para_vender._" data-name="Marketing: recursos para vender. " transform="translate(462 1030)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Marketing: </tspan><tspan x="0" y="39">recursos para </tspan><tspan x="0" y="61">vender. </tspan></text>
     <g id="Grupo_4147" data-name="Grupo 4147" transform="translate(-14 307)">
       <g id="Elipse_506" data-name="Elipse 506" transform="translate(477 648)" fill="none" stroke="#ca9c2c" stroke-width="5">
         <ellipse cx="33.5" cy="32" rx="33.5" ry="32" stroke="none"/>
@@ -25,7 +25,7 @@
       </g>
       <text id="_3" data-name="3" transform="translate(498.347 695.414)" fill="#868988" font-size="42.237" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">3</tspan></text>
     </g>
-    <text id="Humanos:_Personas._" data-name="Humanos: Personas. " transform="translate(615 1033)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Humanos: </tspan><tspan x="0" y="39">Personas. </tspan></text>
+    <text id="Humanos:_personas._" data-name="Humanos: personas. " transform="translate(615 1033)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Humanos: </tspan><tspan x="0" y="39">personas. </tspan></text>
     <g id="Elipse_507" data-name="Elipse 507" transform="translate(616 955)" fill="none" stroke="#ca9c2c" stroke-width="5">
       <ellipse cx="33.5" cy="32" rx="33.5" ry="32" stroke="none"/>
       <ellipse cx="33.5" cy="32" rx="31" ry="29.5" fill="none"/>
@@ -38,7 +38,7 @@
       </g>
       <text id="_5" data-name="5" transform="translate(816.347 690.414)" fill="#868988" font-size="42.237" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">5</tspan></text>
     </g>
-    <text id="Inmateriales:_Conocimientos_técnicos_y_económicos._" data-name="Inmateriales: Conocimientos técnicos y económicos. " transform="translate(943 1033)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Inmateriales: </tspan><tspan x="0" y="39">Conocimientos </tspan><tspan x="0" y="61">técnicos y </tspan><tspan x="0" y="83">económicos. </tspan></text>
+    <text id="Inmateriales:_conocimientos_técnicos_y_económicos._" data-name="Inmateriales: conocimientos técnicos y económicos. " transform="translate(943 1033)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Inmateriales: </tspan><tspan x="0" y="39">conocimientos </tspan><tspan x="0" y="61">técnicos y </tspan><tspan x="0" y="83">económicos. </tspan></text>
     <g id="Elipse_509" data-name="Elipse 509" transform="translate(957 955)" fill="none" stroke="#ca9c2c" stroke-width="5">
       <ellipse cx="33.5" cy="32" rx="33.5" ry="32" stroke="none"/>
       <ellipse cx="33.5" cy="32" rx="31" ry="29.5" fill="none"/>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="920" height="595" viewBox="0 0 920 595">
-  <g id="Grupo_10154" data-name="Grupo 10154" transform="translate(-110 -1425)">
+  <g id="Grupo_10153" data-name="Grupo 10153" transform="translate(-110 -1425)">
     <rect id="Rectángulo_2599" data-name="Rectángulo 2599" width="163" height="347" rx="20" transform="translate(115 1673)" fill="#ffecb3"/>
     <rect id="Rectángulo_2600" data-name="Rectángulo 2600" width="168" height="347" rx="20" transform="translate(298 1673)" fill="#ffecb3"/>
     <rect id="Rectángulo_2601" data-name="Rectángulo 2601" width="168" height="347" rx="20" transform="translate(486 1673)" fill="#ffecb3"/>
@@ -209,9 +209,9 @@
         <path id="Trazado_9181" data-name="Trazado 9181" d="M-449.722,167.862a2.022,2.022,0,0,0-2.022,2.022,2.022,2.022,0,0,0,2.022,2.022h14.155a2.022,2.022,0,0,0,2.022-2.022,2.022,2.022,0,0,0-2.022-2.022h-8.088V117.309h20.221v12.133a2.022,2.022,0,0,0,2.022,2.022,2.022,2.022,0,0,0,2.022-2.022V117.309h2.022a2.022,2.022,0,0,0,2.022-2.022,2.022,2.022,0,0,0-2.022-2.022h-2.022a14.1,14.1,0,0,0-.815-4.742,2.022,2.022,0,0,0-2.583-1.228,2.022,2.022,0,0,0-1.228,2.583h0a10.068,10.068,0,0,1,.581,3.387h-20.221a10.164,10.164,0,0,1,8.608-10,2.022,2.022,0,0,0,1.7-2.3,2.022,2.022,0,0,0-2.3-1.7,14.233,14.233,0,0,0-12.057,14h-2.022a2.022,2.022,0,0,0-2.022,2.022,2.022,2.022,0,0,0,2.022,2.022h2.022v50.552Z" transform="translate(451.744 -78.89)"/>
       </g>
     </g>
-    <text id="Pequeñas_Medianas_Grandes" data-name="Pequeñas
-Medianas
-Grandes" transform="translate(123 1811)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="36.719" y="17">Pequeñas</tspan><tspan x="37.238" y="39">Medianas</tspan><tspan x="41.844" y="61">Grandes</tspan></text>
+    <text id="_Pequeñas_Medianas_Grandes" data-name="• Pequeñas
+• Medianas
+• Grandes" transform="translate(152 1811)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">• Pequeñas</tspan><tspan x="0" y="39">• Medianas</tspan><tspan x="0" y="61">• Grandes</tspan></text>
     <rect id="Rectángulo_2594" data-name="Rectángulo 2594" width="168" height="54" rx="27" transform="translate(110 1425)" fill="#0d47a0"/>
     <rect id="Rectángulo_2595" data-name="Rectángulo 2595" width="168" height="54" rx="27" transform="translate(298 1425)" fill="#0d47a0"/>
     <rect id="Rectángulo_2596" data-name="Rectángulo 2596" width="168" height="54" rx="27" transform="translate(486 1425)" fill="#0d47a0"/>
@@ -222,22 +222,26 @@ Grandes" transform="translate(123 1811)" fill="#00223d" font-size="16" font-fami
     <path id="Polígono_5" data-name="Polígono 5" d="M15,0,30,15H0Z" transform="translate(585 1494) rotate(180)" fill="#0d47a0"/>
     <path id="Polígono_6" data-name="Polígono 6" d="M15,0,30,15H0Z" transform="translate(773 1494) rotate(180)" fill="#0d47a0"/>
     <path id="Polígono_7" data-name="Polígono 7" d="M15,0,30,15H0Z" transform="translate(961 1494) rotate(180)" fill="#0d47a0"/>
-    <text id="TAMAÑO" transform="translate(194 1458)" fill="#fff" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-36.086" y="0">TAMAÑO</tspan></text>
-    <text id="ACTIVIDAD" transform="translate(382 1458)" fill="#fff" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-43.109" y="0">ACTIVIDAD</tspan></text>
-    <text id="AMBITO" transform="translate(570 1458)" fill="#fff" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-32.086" y="0">AMBITO</tspan></text>
-    <text id="PROPIEDAD" transform="translate(758 1458)" fill="#fff" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-46.188" y="0">PROPIEDAD</tspan></text>
+    <text id="TAMAÑO" transform="translate(194 1458)" fill="#fff" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-35.527" y="0">TAMAÑO</tspan></text>
+    <text id="ACTIVIDAD" transform="translate(382 1458)" fill="#fff" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-42.789" y="0">ACTIVIDAD</tspan></text>
+    <text id="ÁMBITO" transform="translate(570 1458)" fill="#fff" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-31.926" y="0">ÁMBITO</tspan></text>
+    <text id="PROPIEDAD" transform="translate(758 1458)" fill="#fff" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-46.027" y="0">PROPIEDAD</tspan></text>
     <text id="FORMA_JURÍDICA" data-name="FORMA JURÍDICA" transform="translate(946 1458)" fill="#fff" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="-66.992" y="0">FORMA JURÍDICA</tspan></text>
-    <text id="Del_sector_primario_agrícola_ganaderas_y_pesqueras_._Del_sector_secundario_mineras_industriales_y_de_construcción_._Del_sector_terciario_servicios_." data-name="Del sector primario (agrícola, ganaderas y pesqueras).
+    <text id="_Del_sector_primario_agrícola_ganaderas_y_pesqueras_._Del_sector_secundario_mineras_industriales_y_de_construcción_._Del_sector_terciario_servicios_." data-name="• Del sector primario (agrícola, ganaderas y pesqueras).
 
-Del sector secundario (mineras, industriales y de construcción).
+• Del sector secundario (mineras, industriales y de construcción).
 
-Del sector terciario (servicios)." transform="translate(307 1704)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Del sector primario </tspan><tspan x="0" y="39">(agrícola, ganaderas </tspan><tspan x="0" y="61">y pesqueras).</tspan><tspan x="0" y="83"></tspan><tspan x="0" y="105">Del sector </tspan><tspan x="0" y="127">secundario </tspan><tspan x="0" y="149">(mineras, </tspan><tspan x="0" y="171">industriales y de </tspan><tspan x="0" y="193">construcción).</tspan><tspan x="0" y="215"></tspan><tspan x="0" y="237">Del sector terciario </tspan><tspan x="0" y="259">(servicios).</tspan></text>
-    <text id="Locales_Provinciales_Regionales_Nacionales_Multinacionales" data-name="Locales, Provinciales, Regionales, Nacionales, Multinacionales" transform="translate(493 1787)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="47.469" y="17">Locales, </tspan><tspan x="30.574" y="39">Provinciales, </tspan><tspan x="34.68" y="61">Regionales, </tspan><tspan x="34.207" y="83">Nacionales, </tspan><tspan x="18.285" y="105">Multinacionales</tspan></text>
-    <text id="Privadas_Públicas_Mixtas." data-name="Privadas,
-Públicas,
-Mixtas." transform="translate(682 1812)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="42.309" y="17">Privadas,</tspan><tspan x="43.289" y="39">Públicas,</tspan><tspan x="49.344" y="61">Mixtas.</tspan></text>
-    <text id="Individual_Social." data-name="Individual,
-Social." transform="translate(869 1824)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="38.656" y="17">Individual,</tspan><tspan x="53.344" y="39">Social.</tspan></text>
+• Del sector terciario (servicios)." transform="translate(307 1704)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">• Del sector </tspan><tspan x="0" y="39">primario (agrícola, </tspan><tspan x="0" y="61">ganaderas y </tspan><tspan x="0" y="83">pesqueras).</tspan><tspan x="0" y="105"></tspan><tspan x="0" y="127">• Del sector </tspan><tspan x="0" y="149">secundario </tspan><tspan x="0" y="171">(mineras, </tspan><tspan x="0" y="193">industriales y de </tspan><tspan x="0" y="215">construcción).</tspan><tspan x="0" y="237"></tspan><tspan x="0" y="259">• Del sector terciario </tspan><tspan x="0" y="281">(servicios).</tspan></text>
+    <text id="_Locales_Provinciales_Regionales_Nacionales_Multinacionales" data-name="• Locales,
+• Provinciales,
+• Regionales,
+• Nacionales, 
+• Multinacionales" transform="translate(505 1787)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">• Locales,</tspan><tspan x="0" y="39">• Provinciales,</tspan><tspan x="0" y="61">• Regionales,</tspan><tspan x="0" y="83">• Nacionales, </tspan><tspan x="0" y="105">• Multinacionales</tspan></text>
+    <text id="_Privadas_Públicas_Mixtas." data-name="• Privadas,
+• Públicas,
+• Mixtas." transform="translate(715 1812)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">• Privadas,</tspan><tspan x="0" y="39">• Públicas,</tspan><tspan x="0" y="61">• Mixtas.</tspan></text>
+    <text id="_Individual_Social." data-name="• Individual,
+• Social." transform="translate(903 1824)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">• Individual,</tspan><tspan x="0" y="39">• Social.</tspan></text>
     <path id="Polígono_8" data-name="Polígono 8" d="M15,0,30,15H0Z" transform="translate(932 1658)" fill="#ffecb3"/>
     <path id="Polígono_9" data-name="Polígono 9" d="M15,0,30,15H0Z" transform="translate(744 1658)" fill="#ffecb3"/>
     <path id="Polígono_10" data-name="Polígono 10" d="M15,0,30,15H0Z" transform="translate(556 1658)" fill="#ffecb3"/>

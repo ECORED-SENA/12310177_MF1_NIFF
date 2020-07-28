@@ -7,8 +7,9 @@
 .text-black{
     color:black;
 }
-.text-blue{
-    color: #4DD0E0
+.text-orange{
+    color: orange;
+    font-weight: bold;
 } 
 
 .custom-item-img {
@@ -73,7 +74,7 @@
     border: 1px solid #D7B460;
 }
 
-.row-color-yellow{
+.color-yellow{
      background-color: #FFECB3;
 }
 
@@ -90,3 +91,24 @@
     border-radius: 50%;
     border: 1px solid black;
 }
+
+.sub-line {
+    h2,h3 {
+        overflow: hidden;
+        font-weight: 700;
+    }
+
+    h2:after,h3:after {
+        content:"";
+        display: inline-block;
+        height: 0.5em;
+        vertical-align: bottom;
+        width: 100%;
+        margin-right: -100%;
+        margin-left: 10px;
+        border-top: 1px solid $orange;
+    }
+}
+ .max-width{
+     max-width: 70%;
+ }
